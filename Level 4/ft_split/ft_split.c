@@ -29,8 +29,8 @@ char **ft_split(char *str)
 }
 
 #include <stdio.h>
-
-int main() {
+int main() 
+{
     char str[] = "Derya Acar";
     char **result = ft_split(str);
 
@@ -43,7 +43,6 @@ int main() {
             printf("%s\n", result[i]);
             free(result[i]);
         }
-
         free(result);
     }
 }
