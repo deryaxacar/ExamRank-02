@@ -2,7 +2,7 @@
 
 int main(int ac, char **av)
 {
-	int start, end, flag, i = 0;
+	int i = 0, start, end, flag;
 		
 	if(ac == 2)
 	{   
