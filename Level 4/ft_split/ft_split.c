@@ -4,9 +4,7 @@ char    **ft_split(char *str)
 {
         int i = 0, j = 0, k;
         char **ptr = (char **)malloc(sizeof(char *) * 1000);
-
-        if(!ptr)
-                return NULL;
+        
         while(str[i] == ' ' || str[i] == '\t' || str[i] == '\n')
                 i++;
         while(str[i])
