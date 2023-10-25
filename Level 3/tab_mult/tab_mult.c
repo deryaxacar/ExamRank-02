@@ -39,7 +39,7 @@ int main(int ac, char **av)
 
 	if(ac == 2)
 	{
-		int nbr = ft_atoi(av[i]);
+		int nbr = ft_atoi(av[1]);
 
 		while(i <= 9)
 		{
