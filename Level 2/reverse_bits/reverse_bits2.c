@@ -10,3 +10,11 @@ unsigned char	reverse_bits(unsigned char octet)
 	}
 	return bit;
 }
+#include <stdio.h>
+
+int main()
+{
+	unsigned char x = 58;
+	printf("önce: %d\n", x);
+	printf("sonra: %d\n", reverse_bits(x));
+}
