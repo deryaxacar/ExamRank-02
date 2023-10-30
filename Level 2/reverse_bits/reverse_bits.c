@@ -10,7 +10,6 @@ unsigned char	reverse_bits(unsigned char octet)
 	}
 	return bit;
 }
-
 #include <stdio.h>
 
 int main()
