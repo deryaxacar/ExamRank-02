@@ -1,0 +1,12 @@
+Görev adı: is_power_of_2
+Beklenen dosyalar: is_power_of_2.c
+İzin verilen fonksiyonlar: Hiçbiri
+--------------------------------------------------------------------------------
+
+Verilen bir sayının 2'nin üssü olup olmadığını belirleyen bir fonksiyon yazın.
+
+Bu işlev, verilen sayının 2'nin üssü ise 1, değilse 0 döndürür.
+
+Fonksiyonunuz aşağıdaki gibi bildirilmelidir:
+
+int is_power_of_2(unsigned int n);
