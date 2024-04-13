@@ -1,0 +1,22 @@
+Görev adı: str_capitalizer
+Beklenen dosyalar: str_capitalizer.c
+İzin verilen fonksiyonlar: write
+--------------------------------------------------------------------------------
+
+Program, her biri için bir veya birkaç dize alır ve her bir argüman için, her kelimenin ilk karakterini büyük harfe dönüştürür (elbette harfse), geri kalanı küçük harfe dönüştürür ve sonucu standart çıktıda \n ile birlikte görüntüler.
+
+"Bir kelime", bir dizenin ya boşluklar / sekmelerle sınırlanmış bir parçası ya da dizenin başlangıcı / sonu tarafından sınırlanmış bir parçadır. Bir kelimenin sadece bir harfi varsa, büyük harf olmalıdır.
+
+Eğer argüman yoksa, program \n göstermelidir.
+
+Örnek:
+
+$> ./str_capitalizer | cat -e
+$
+$> ./str_capitalizer "a FiRSt LiTTlE TESt" | cat -e
+A First Little Test$
+$> ./str_capitalizer "__SecONd teST A LITtle BiT   Moar comPLEX" "   But... This iS not THAT COMPLEX" "     Okay, this is the last 1239809147801 but not    the least    t" | cat -e
+__second Test A Little Bit   Moar Complex$
+   But... This Is Not That Complex$
+     Okay, This Is The Last 1239809147801 But Not    The Least    T$
+$
