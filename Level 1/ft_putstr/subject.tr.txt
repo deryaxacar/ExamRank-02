@@ -1,0 +1,12 @@
+Görev adı: ft_putstr
+Beklenen dosyalar: ft_putstr.c
+İzin verilen fonksiyonlar: write
+--------------------------------------------------------------------------------
+
+Standart çıkışa bir dize yazdıran bir işlev yazın.
+
+İşleve geçirilen işaretçi, dizenin ilk karakterinin adresini içerir.
+
+İşleviniz aşağıdaki gibi bildirilmelidir:
+
+void	ft_putstr(char *str);
