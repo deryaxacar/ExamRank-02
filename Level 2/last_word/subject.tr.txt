@@ -1,0 +1,23 @@
+Görev adı: last_word
+Beklenen dosyalar: last_word.c
+İzin verilen fonksiyonlar: write
+--------------------------------------------------------------------------------
+
+Bir dize alan ve ardından bir satır sonundaki kelimeyi görüntüleyen bir program yazın.
+
+Bir kelime, dizenin boşluklar / sekmelerle sınırlanan bir bölümü veya dizenin başlangıcı / sonu tarafından sınırlanan bir bölümdür.
+
+Parametre sayısı 1 değilse veya kelime yoksa, bir satır sonu görüntülenir.
+
+Örnek:
+
+$> ./last_word "FOR PONY" | cat -e
+PONY$
+$> ./last_word "this        ...       is sparta, then again, maybe    not" | cat -e
+not$
+$> ./last_word "   " | cat -e
+$
+$> ./last_word "a" "b" | cat -e
+$
+$> ./last_word "  lorem,ipsum  " | cat -e
+lorem,ipsum$
