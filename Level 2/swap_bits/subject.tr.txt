@@ -1,0 +1,19 @@
+Görev adı: swap_bits
+Beklenen dosyalar: swap_bits.c
+İzin verilen fonksiyonlar: 
+--------------------------------------------------------------------------------
+
+Bir byte alır, yarısını değiştirir (örnekte olduğu gibi) ve sonucu döndüren bir işlev yazın.
+
+İşleviniz aşağıdaki gibi bildirilmelidir:
+
+unsigned char	swap_bits(unsigned char octet);
+
+Örnek:
+
+  1 byte
+_____________
+ 0100 | 0001
+     \ /
+     / \
+ 0001 | 0100
