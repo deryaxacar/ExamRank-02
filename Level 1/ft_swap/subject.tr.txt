@@ -1,0 +1,10 @@
+Görev adı: ft_swap
+Beklenen dosyalar: ft_swap.c
+İzin verilen fonksiyonlar:
+--------------------------------------------------------------------------------
+
+Parametre olarak iletilen adreslerdeki iki tamsayının içeriğini değiştiren bir işlev yazın.
+
+İşleviniz aşağıdaki gibi bildirilmelidir:
+
+void	ft_swap(int *a, int *b);
