@@ -1,0 +1,12 @@
+Görev adı: print_bits
+Beklenen dosyalar: print_bits.c
+İzin verilen fonksiyonlar: write
+--------------------------------------------------------------------------------
+
+Bir byte alan ve onu yeni satır olmadan ikili olarak yazdıran bir fonksiyon yazın.
+
+Fonksiyonunuzu aşağıdaki şekilde bildirmelisiniz:
+
+void	print_bits(unsigned char octet);
+
+Örnek olarak, print_bits'e 2 geçirirseniz, "00000010" yazdırır.
