@@ -1,0 +1,10 @@
+Görev adı: ft_strlen
+Beklenen dosyalar: ft_strlen.c
+İzin verilen fonksiyonlar:
+--------------------------------------------------------------------------------
+
+Bir dizinin uzunluğunu döndüren bir işlev yazın.
+
+İşleviniz aşağıdaki gibi bildirilmelidir:
+
+int	ft_strlen(char *str);
