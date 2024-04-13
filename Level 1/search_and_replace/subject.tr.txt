@@ -1,0 +1,26 @@
+Görev adı: search_and_replace
+Beklenen dosyalar: search_and_replace.c
+İzin verilen fonksiyonlar: write, exit
+--------------------------------------------------------------------------------
+
+search_and_replace adında bir program yazın. Program 3 argüman alır, ilk argüman
+değiştirilecek bir harf içeren bir dizedir (2. argüman) başka bir harfle (3. argüman) değiştirilir.
+
+Argüman sayısı 3 değilse, sadece bir yeni satır görüntüleyin.
+
+Eğer ikinci argüman (dize içindeki harf) birinci dize içinde (dize) bulunmuyorsa,
+program sadece dizeyi yeni bir satır ile tekrar yazar.
+
+Örnekler:
+$>./search_and_replace "Papache est un sabre" "a" "o"
+Popoche est un sobre
+$>./search_and_replace "zaz" "art" "zul" | cat -e
+$
+$>./search_and_replace "zaz" "r" "u" | cat -e
+zaz$
+$>./search_and_replace "jacob" "a" "b" "c" "e" | cat -e
+$
+$>./search_and_replace "ZoZ eT Dovid oiME le METol." "o" "a" | cat -e
+ZaZ eT David aiME le METal.$
+$>./search_and_replace "wNcOre Un ExEmPle Pas Facilw a Ecrirw " "w" "e" | cat -e
+eNcOre Un ExEmPle Pas Facile a Ecrire $
