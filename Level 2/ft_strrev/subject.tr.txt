@@ -1,0 +1,12 @@
+Görev adı: ft_strrev
+Beklenen dosyalar: ft_strrev.c
+İzin verilen fonksiyonlar: Yok
+--------------------------------------------------------------------------------
+
+Diziyi (yerinde) ters çeviren bir işlev yazın.
+
+Parametresini döndürmelidir.
+
+Fonksiyonunuz aşağıdaki gibi bildirilmelidir:
+
+char    *ft_strrev(char *str);
