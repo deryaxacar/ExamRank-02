@@ -1,0 +1,17 @@
+Görev adı: ft_atoi_base
+Beklenen dosyalar: ft_atoi_base.c
+İzin verilen fonksiyonlar: None
+--------------------------------------------------------------------------------
+
+Verilen string argümanını (tabanı N <= 16) bir tamsayıya (taban 10) dönüştüren ve döndüren bir fonksiyon yazın.
+
+Girişte tanınan karakterler: 0123456789abcdef
+Bu karakterler elbette talep edilen tabana göre kırpılmalıdır. Örneğin, taban 4 "0123"ü ve taban 16 "0123456789abcdef"i tanır.
+
+Büyük harfler de tanınmalıdır: "12fdb3" "12FDB3" ile aynıdır.
+
+Eksi işaretleri ('-') yalnızca dizenin ilk karakteri ise yorumlanır.
+
+Fonksiyonunuz aşağıdaki gibi bildirilmelidir:
+
+int	ft_atoi_base(const char *str, int str_base);
