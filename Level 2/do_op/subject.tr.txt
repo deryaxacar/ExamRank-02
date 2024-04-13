@@ -1,0 +1,23 @@
+Görev adı: do_op
+Beklenen dosyalar: *.c, *.h
+İzin verilen fonksiyonlar: atoi, printf, write
+--------------------------------------------------------------------------------
+
+Üç string alacak bir program yazın:
+- İlk ve üçüncü stringler, bir int türüne sığan ondalık işaretli tam sayıların temsilleridir.
+- İkinci string, + - * / % gibi bir aritmetik operatördür.
+
+Program istenen aritmetik işlemin sonucunu, bir newline karakteri ile birlikte ekrana yazdırmalıdır. Parametre sayısı 3 değilse, program sadece bir newline karakteri yazdırmalıdır.
+
+Stringlerin hatalı karakterleri veya gereksiz karakterleri olmadığını varsayabilirsiniz. Giriş veya çıkışta negatif sayılar, yalnızca bir adet '-' işareti ile başlayacaktır. İşlem sonucu bir int türüne sığar.
+
+Örnekler:
+
+$> ./do_op "123" "*" 456 | cat -e
+56088$
+$> ./do_op "9828" "/" 234 | cat -e
+42$
+$> ./do_op "1" "+" "-43" | cat -e
+-42$
+$> ./do_op | cat -e
+$
