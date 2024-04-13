@@ -1,0 +1,24 @@
+Görev adı: rev_wstr
+Beklenen dosyalar: rev_wstr.c
+İzin verilen fonksiyonlar: write, malloc, free
+--------------------------------------------------------------------------------
+
+Bir parametre olarak bir dize alan ve kelimelerini ters sırada yazdıran bir program yazın.
+
+Bir "kelime", dize tarafından boşluklar ve/veya sekmeler ya da dizenin başlangıcı/sonu tarafından sınırlanan bir bölümdür.
+
+Parametre sayısı 1'den farklıysa, program '\n' görüntüler.
+
+Test edilecek parametrelerde "ek" boşluklar olmayacak (başta veya sondan ek boşluklar olmayacak ve kelimeler her zaman tam olarak bir boşlukla ayrılacaktır).
+
+Örnekler:
+
+$> ./rev_wstr "You hate people! But I love gatherings. Isn't it ironic?" | cat -e
+ironic? it Isn't gatherings. love I But people! hate You$
+$>./rev_wstr "abcdefghijklm"
+abcdefghijklm
+$> ./rev_wstr "Wingardium Leviosa" | cat -e
+Leviosa Wingardium$
+$> ./rev_wstr | cat -e
+$
+$>
