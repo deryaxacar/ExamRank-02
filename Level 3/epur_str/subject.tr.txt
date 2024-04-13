@@ -1,0 +1,22 @@
+Görev adı: epur_str
+Beklenen dosyalar: epur_str.c
+İzin verilen fonksiyonlar: write
+--------------------------------------------------------------------------------
+
+Bir dize alıp, dize arasında tam olarak bir boşluk olacak şekilde bu dizeyi görüntüleyen bir program yazın. Dizenin başında veya sonunda boşluk veya sekme işareti olmadan, ardından bir \n karakteri gelmelidir.
+
+Bir "kelime", dizenin başlangıcında / sonunda veya boşluklar / sekmeler arasında belirlenen bir bölümdür.
+
+Argüman sayısı 1 değilse veya görüntülenecek kelime yoksa, program \n karakteri görüntüler.
+
+Örnek:
+
+$> ./epur_str "See? It's easy to print the same thing" | cat -e
+See? It's easy to print the same thing$
+$> ./epur_str " this        time it      will     be    more complex  . " | cat -e
+this time it will be more complex .$
+$> ./epur_str "No S*** Sherlock..." "nAw S*** ShErLaWQ..." | cat -e
+$
+$> ./epur_str "" | cat -e
+$
+$>
