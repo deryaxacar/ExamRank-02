@@ -1,0 +1,10 @@
+Görev adı: ft_strcspn
+Beklenen dosyalar: ft_strcspn.c
+İzin verilen fonksiyonlar: Hiçbiri
+---------------------------------------------------------------
+
+strcspn fonksiyonunun davranışını tam olarak yeniden üretin (man strcspn).
+
+Fonksiyon aşağıdaki gibi prototip ile tanımlanmalıdır:
+
+size_t	ft_strcspn(const char *s, const char *reject);
