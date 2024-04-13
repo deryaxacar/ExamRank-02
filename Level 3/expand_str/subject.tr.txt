@@ -1,0 +1,22 @@
+Görev adı: expand_str
+Beklenen dosyalar: expand_str.c
+İzin verilen fonksiyonlar: write
+--------------------------------------------------------------------------------
+
+Bir dize alıp her kelime arasında tam olarak üç boşlukla (başta veya sondaki boşluklar veya sekme işaretleri olmadan) görüntüleyen bir program yazın, ardından bir satırbaşı karakteri ekleyin.
+
+Bir kelime, dizenin başlangıcında / sonunda ya da boşluklar / sekmeler arasında belirlenen bir bölümdür.
+
+Argüman sayısı 1 değilse veya kelimeler yoksa, basitçe bir satırbaşı karakteri görüntüleyin.
+
+Örnekler:
+
+$> ./expand_str "See? It's easy to print the same thing" | cat -e
+See?   It's   easy   to   print   the   same   thing$
+$> ./expand_str " this        time it      will     be    more complex  " | cat -e
+this   time   it   will   be   more   complex$
+$> ./expand_str "No S*** Sherlock..." "nAw S*** ShErLaWQ..." | cat -e
+$
+$> ./expand_str "" | cat -e
+$
+$>
