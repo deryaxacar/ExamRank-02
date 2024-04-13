@@ -1,0 +1,22 @@
+Görev adı: hidenp
+Beklenen dosyalar: hidenp.c
+İzin verilen fonksiyonlar: write
+--------------------------------------------------------------------------------
+
+İki dize alan ve ilk dizenin ikinci dizenin içinde gizlenip gizlenmediğini belirleyen 1'i ve ardından bir satır atlayan bir program yazın, aksi takdirde 0'ı ve ardından bir satır atlayan bir program yazın.
+
+s1 ve s2 dizeleri olsun. Bir dizenin diğerinde gizli olduğunu söyleriz eğer s1'den her karakterin s2'de sırasıyla s1'de göründüğü şekilde bulunabilirse. Ayrıca, boş dize herhangi bir dizinin içinde gizlidir.
+
+Parametre sayısı 2 değilse, program bir satır atlar.
+
+Örnekler:
+
+$>./hidenp "fgex.;" "tyf34gdgf;'ektufjhgdgex.;.;rtjynur6" | cat -e
+1$
+$>./hidenp "abc" "2altrb53c.sse" | cat -e
+1$
+$>./hidenp "abc" "btarc" | cat -e
+0$
+$>./hidenp | cat -e
+$
+$>
