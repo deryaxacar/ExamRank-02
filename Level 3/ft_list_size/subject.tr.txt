@@ -1,0 +1,18 @@
+Görev adı: ft_list_size
+Beklenen dosyalar: ft_list_size.c, ft_list.h
+İzin verilen fonksiyonlar:
+--------------------------------------------------------------------------------
+
+Bir bağlı listeyi parametre olarak alan ve bu listedeki öğelerin sayısını döndüren bir fonksiyon yazın.
+
+Aşağıdaki yapıyı kullanmalısınız ve bu yapıyı ft_list.h dosyası olarak adlandırarak teslim etmelisiniz:
+
+typedef struct    s_list
+{
+    struct s_list *next;
+    void          *data;
+}                 t_list;
+
+Fonksiyon aşağıdaki gibi bildirilmelidir:
+
+int	ft_list_size(t_list *begin_list);
