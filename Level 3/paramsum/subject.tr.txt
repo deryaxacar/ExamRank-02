@@ -1,0 +1,17 @@
+Görev adı: paramsum
+Beklenen dosyalar: paramsum.c
+İzin verilen fonksiyonlar: write
+--------------------------------------------------------------------------------
+
+Program, kendisine iletilen argüman sayısını görüntüler ve bir sonraki satıra geçer.
+
+Eğer argüman yoksa, sadece 0'ı ve bir sonraki satıra geçmeyi görüntüler.
+
+Örnek:
+
+$>./paramsum 1 2 3 5 7 24
+6
+$>./paramsum 6 12 24 | cat -e
+3$
+$>./paramsum | cat -e
+0$
