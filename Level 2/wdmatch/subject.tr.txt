@@ -1,0 +1,23 @@
+Görev adı: wdmatch
+Beklenen dosyalar: wdmatch.c
+İzin verilen fonksiyonlar: write
+--------------------------------------------------------------------------------
+
+İki dize alıp, ikinci dizedeki karakterlerin sırasına uygun olarak ilk dizeyi yazmanın mümkün olup olmadığını kontrol eden bir program yazın.
+
+Mümkünse, program dizeyi bir \n ile görüntüler, aksi halde sadece bir \n görüntüler.
+
+Argüman sayısı 2 değilse, program bir \n görüntüler.
+
+Örnekler:
+
+$>./wdmatch "faya" "fgvvfdxcacpolhyghbreda" | cat -e
+faya$
+$>./wdmatch "faya" "fgvvfdxcacpolhyghbred" | cat -e
+$
+$>./wdmatch "quarante deux" "qfqfsudf arzgsayns tsregfdgs sjytdekuoixq " | cat -e
+quarante deux$
+$>./wdmatch "error" rrerrrfiiljdfxjyuifrrvcoojh | cat -e
+$
+$>./wdmatch | cat -e
+$
