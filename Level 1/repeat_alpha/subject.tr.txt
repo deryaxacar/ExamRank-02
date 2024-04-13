@@ -1,0 +1,26 @@
+Görev adı: repeat_alpha
+Beklenen dosyalar: repeat_alpha.c
+İzin verilen fonksiyonlar: write
+--------------------------------------------------------------------------------
+
+repeat_alpha adında bir program yazın. Bu program bir dize almalı ve her alfabedeki karakteri, alfabedeki indeksi kadar tekrar ederek görüntülemelidir. Ardından yeni bir satır ile bitirilmelidir.
+
+'a' 'a', 'b' 'bb', 'e' 'eeeee', vb. şeklinde dönüşür.
+
+Büyük-küçük harf durumu değişmemelidir.
+
+Eğer argüman sayısı 1 değilse, sadece bir yeni satır görüntülenmelidir.
+
+Örnekler:
+
+$>./repeat_alpha "abc"
+abbccc
+$>./repeat_alpha "Alex." | cat -e
+Alllllllllllleeeeexxxxxxxxxxxxxxxxxxxxxxxx.$
+$>./repeat_alpha 'abacadaba 42!' | cat -e
+abbacccaddddabba 42!$
+$>./repeat_alpha | cat -e
+$
+$>
+$>./repeat_alpha "" | cat -e
+$
