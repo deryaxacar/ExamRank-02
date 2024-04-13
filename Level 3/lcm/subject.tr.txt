@@ -1,0 +1,24 @@
+Görev adı: lcm
+Beklenen dosyalar: lcm.c
+İzin verilen fonksiyonlar:
+--------------------------------------------------------------------------------
+
+İki tamsayı parametre alan ve bu parametrelerin LCM (En Küçük Ortak Kat) değerini hesaplayan bir fonksiyon yazın.
+
+LCM (En Küçük Ortak Kat), sıfırdan farklı iki tam sayının en küçük pozitif ortak katıdır. 
+
+LCM iki şekilde hesaplanabilir:
+
+- Her bir tam sayının katlarını hesaplayabilir ve sıfırdan farklı bir ortak kat elde edene kadar devam edebilirsiniz.
+
+- Bu iki tam sayının HCF (En Büyük Ortak Bölen)'ini kullanabilir ve aşağıdaki gibi hesaplayabilirsiniz:
+
+	LCM(x, y) = | x * y | / HCF(x, y)
+
+  | x * y | x ile y'nin çarpımının mutlak değerini ifade eder.
+
+En az bir tam sayı sıfırsa, LCM 0'a eşittir.
+
+Fonksiyonunuzun prototipi aşağıdaki gibidir:
+
+  unsigned int    lcm(unsigned int a, unsigned int b);
