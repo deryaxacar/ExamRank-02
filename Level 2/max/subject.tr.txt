@@ -1,0 +1,14 @@
+Görev adı: max
+Beklenen dosyalar: max.c
+İzin verilen fonksiyonlar: Yok
+--------------------------------------------------------------------------------
+
+Aşağıdaki fonksiyonu yazın:
+
+int max(int *tab, unsigned int len);
+
+İlk parametre int türünde bir dizi, ikinci parametre ise dizideki eleman sayısıdır.
+
+Fonksiyon, dizide bulunan en büyük sayıyı döndürür.
+
+Eğer dizi boş ise, fonksiyon 0 değerini döndürür.
