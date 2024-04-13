@@ -1,0 +1,18 @@
+Görev adı: camel_to_snake
+Beklenen dosyalar: camel_to_snake.c
+İzin verilen fonksiyonlar: malloc, realloc, write
+--------------------------------------------------------------------------------
+
+LowerCamelCase formatındaki tek bir string alarak onu snake_case formatına dönüştüren bir program yazın.
+
+LowerCamelCase formatında, her kelime büyük harfle başlar, ancak ilk kelime hariçtir.
+
+Snake_case formatında, her kelime küçük harflerle yazılır ve alt tire "_" ile ayrılır.
+
+Örnekler:
+$>./camel_to_snake "hereIsACamelCaseWord"
+here_is_a_camel_case_word
+$>./camel_to_snake "helloWorld" | cat -e
+hello_world$
+$>./camel_to_snake | cat -e
+$
