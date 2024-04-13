@@ -1,0 +1,24 @@
+Görev adı: alpha_mirror
+Beklenen dosyalar: alpha_mirror.c
+İzin verilen fonksiyonlar: write
+--------------------------------------------------------------------------------
+
+alpha_mirror adında bir program yazın. Bu program bir dize almalı ve her alfabetik karakteri karşıt alfabetik karakterle değiştirerek bu dizeyi görüntülemelidir. Sonuç olarak bir yeni satır ekleyin.
+
+'a' 'z'ye dönüşür, 'Z' 'A'ya dönüşür.
+'d' 'w'ye dönüşür, 'M' 'N'e dönüşür.
+
+ve böyle devam eder.
+
+Harf büyüklüğü değiştirilmez.
+
+Eğer argüman sayısı 1 değilse, sadece yeni bir satır gösterin.
+
+Örnekler:
+
+$>./alpha_mirror "abc"
+zyx
+$>./alpha_mirror "My horse is Amazing." | cat -e
+Nb slihv rh Znzarmt.$
+$>./alpha_mirror | cat -e
+$
