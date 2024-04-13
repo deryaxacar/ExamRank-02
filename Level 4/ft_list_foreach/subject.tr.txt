@@ -1,0 +1,22 @@
+Görev adı: ft_list_foreach
+Beklenen dosyalar: ft_list_foreach.c, ft_list.h
+İzin verilen fonksiyonlar: Yok
+--------------------------------------------------------------------------------
+
+Bir listeden ve bir işlev işaretçisinden oluşan bir işlev yazın ve bu işlevi listenin her elemanına uygulayın.
+
+Aşağıdaki gibi bildirilmelidir:
+
+void    ft_list_foreach(t_list *begin_list, void (*f)(void *));
+
+f ile işaretlenen işlev şu şekilde kullanılacaktır:
+
+(*f)(list_ptr->data);
+
+Aşağıdaki yapıyı kullanmalısınız ve onu ft_list.h olarak adlandırmalısınız:
+
+typedef struct    s_list
+{
+    struct s_list *next;
+    void          *data;
+}                 t_list;
