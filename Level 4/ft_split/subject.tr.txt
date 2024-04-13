@@ -1,0 +1,12 @@
+Görev adı: ft_split
+Beklenen dosyalar: ft_split.c
+İzin verilen fonksiyonlar: malloc
+--------------------------------------------------------------------------------
+
+Bir dize alan, onu kelimelere bölen ve onları NULL ile sonlandırılmış bir dize dizisi olarak döndüren bir fonksiyon yazın.
+
+Bir "kelime", bir dizenin boşluklar/sekme/yeni satırlar tarafından sınırlanan bir bölümü veya dizenin başlangıcı/sonu olarak tanımlanır.
+
+Fonksiyonunuz aşağıdaki gibi bildirilmelidir:
+
+char    **ft_split(char *str);
