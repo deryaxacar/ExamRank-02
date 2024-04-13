@@ -1,0 +1,37 @@
+Görev adı: fizzbuzz
+Beklenen dosyalar: fizzbuzz.c
+İzin verilen fonksiyonlar: write
+--------------------------------------------------------------------------------
+
+1'den 100'e kadar olan sayıları her biri bir yeni satır ile yazdıran bir program yazın.
+
+Eğer sayı 3'ün katı ise, 'fizz' yazdırır.
+
+Eğer sayı 5'in katı ise, 'buzz' yazdırır.
+
+Eğer sayı hem 3'ün hem de 5'in katı ise, 'fizzbuzz' yazdırır.
+
+Örnek:
+
+$>./fizzbuzz
+1
+2
+fizz
+4
+buzz
+fizz
+7
+8
+fizz
+buzz
+11
+fizz
+13
+14
+fizzbuzz
+[...]
+97
+98
+fizz
+buzz
+$>
