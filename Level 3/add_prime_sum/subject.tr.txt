@@ -1,0 +1,20 @@
+Görev adı: add_prime_sum
+Beklenen dosyalar: add_prime_sum.c
+İzin verilen fonksiyonlar: write, exit
+--------------------------------------------------------------------------------
+
+Bir pozitif tamsayıyı argüman olarak alan ve ardından bir satır sonlandırıcı ile tüm asal sayıların toplamını görüntüleyen bir program yazın.
+
+Argüman sayısı 1 değilse veya argüman pozitif bir sayı değilse, 0'ı ve ardından bir satır sonlandırıcıyı görüntüleyin.
+
+Evet, örnekler doğrudur.
+
+Örnekler:
+
+$>./add_prime_sum 5
+10
+$>./add_prime_sum 7 | cat -e
+17$
+$>./add_prime_sum | cat -e
+0$
+$>
