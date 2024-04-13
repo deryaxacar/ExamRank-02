@@ -1,6 +1,6 @@
-## subject
+## Subject
 
-...
+```
 Assignment name	: ft_strcspn
 Expected files	: ft_strcspn.c
 Allowed functions: None
