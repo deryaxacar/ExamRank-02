@@ -2,7 +2,7 @@
 
 ---
 
-**ft_strcpy :** Bu fonksiyon, bir karakter dizisindeki (string) tüm karakterleri başka bir dizeye kopyalar. Kaynak dizinin (source) her bir karakteri, hedef dizinin (destination) karşılık gelen pozisyonuna kopyalanır. Fonksiyon ayrıca hedef dizinin sonuna null karakter ('\0') ekleyerek diziyi sonlandırır.
+**ft_strcpy :** Bir karakter dizisindeki (string) tüm karakterleri başka bir dizeye kopyalar. Kaynak dizinin (source) her bir karakteri, hedef dizinin (destination) karşılık gelen pozisyonuna kopyalanır. Fonksiyon ayrıca hedef dizinin sonuna null karakter ('\0') ekleyerek diziyi sonlandırır.
 
 - **Örnek:**
   - **Girdi:** Kaynak dizi: "Hello", Hedef dizi: ""
