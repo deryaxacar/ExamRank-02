@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**add_prime_sum :** Verilen bir sayıya kadar olan tüm asal sayıların toplamını hesaplar.
+
+- **Örnek:** 
+  - **Girdi:** 10
+  - **Çıktı:** 17
+  - **Açıklama:** 2, 3, 5 ve 7 asal sayılarıdır, toplamları 17'dir.
+
+---
+
 ## Subject
 
 ```
