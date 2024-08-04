@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**rot_13 :** Verilen bir karakter dizisini ROT13 şifreleme algoritması ile şifreler. ROT13, her harfi alfabede 13 pozisyon ileri kaydırarak şifreler. A harfi N olur, B harfi O olur, vb.
+
+- **Örnek:**
+  - **Girdi:** "Hello"
+  - **Çıktı:** "Uryyb"
+  - **Açıklama:** "Hello" dizisi ROT13 algoritması ile şifrelenir.
+
+---
+
 ## Subject
 
 ```
