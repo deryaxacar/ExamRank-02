@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**sort_int_tab :** Verilen bir tamsayı dizisini artan sırayla sıralar.
+
+- **Örnek:** 
+  - **Girdi:** [3, 1, 2]
+  - **Çıktı:** [1, 2, 3]
+  - **Açıklama:** Diziyi artan sırayla sıralar.
+
+---
+
 ## Subject
 
 ```
