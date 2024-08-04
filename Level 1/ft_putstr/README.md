@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**ft_putstr :** Bu fonksiyon, verilen bir karakter dizisini standart çıkışa (genellikle ekrana) yazdırır. Fonksiyon, dizedeki her bir karakteri sırayla okur ve ekrana basar. 
+
+- **Örnek:**
+  - **Girdi:** "Hello World"
+  - **Çıktı:** "Hello World"
+  - **Açıklama:** "Hello World" metni ekrana yazdırılır.
+
+---
+
 ## Subject
 
 ```
