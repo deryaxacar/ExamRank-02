@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**ft_split :** Verilen bir karakter dizisini belirli bir ayırıcı karaktere göre böler ve her parçayı içeren bir dizi oluşturur.
+
+- **Örnek:** 
+  - **Girdi:** "hello world", ayırıcı: ' '
+  - **Çıktı:** ["hello", "world"]
+  - **Açıklama:** Diziyi ayırıcı karaktere göre böler.
+
+---
+
 ## Subject
 
 ```
