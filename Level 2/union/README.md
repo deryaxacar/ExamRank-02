@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**union :** İki karakter dizisindeki tüm benzersiz karakterleri bulur ve bu karakterleri içeren yeni bir dize oluşturur. Karakterler sadece bir kez döndürülür.
+
+- **Örnek:**
+  - **Girdi:** "abc", "bcd"
+  - **Çıktı:** "abcd"
+  - **Açıklama:** İki dizideki tüm benzersiz karakterleri bulur.
+
+---
+
 ## Subject
 
 ```
