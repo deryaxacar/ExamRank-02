@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**wdmatch :** Verilen bir karakter dizisinin diğer bir dizinin alt dizisi olup olmadığını kontrol eder. Eğer dize, diğer dizinin içinde mevcutsa 1 döner, aksi takdirde 0 döner.
+
+- **Örnek:**
+  - **Girdi:** "abc", "aabbcc"
+  - **Çıktı:** 1
+  - **Açıklama:** İlk dizinin diğer dizinin içinde bulunup bulunmadığını kontrol eder.
+
+---
+
 ## Subject
 
 ```
