@@ -1,10 +1,10 @@
 ### Fonksiyonlar
 
-Bu README dosyasında ExamRank2'nin 3. level'ında çıkabilecek fonksiyonlar bulunmakta, fonksiyonların genel amacı ve açıklamaları örnekleriyle aşşağıya eklenmiştir.
+Bu README dosyasında ExamRank2'nin 3. level'ında çıkabilecek kodlar bulunmakta, kodların genel amacı ve açıklamaları örnekleriyle aşşağıya eklenmiştir.
 
 ---
 
-**add_prime_sum :** Bu fonksiyon, verilen bir sayıya kadar olan tüm asal sayıların toplamını hesaplar.
+**add_prime_sum :** Verilen bir sayıya kadar olan tüm asal sayıların toplamını hesaplar.
 
 - **Örnek:** 
   - **Girdi:** 10
@@ -13,7 +13,7 @@ Bu README dosyasında ExamRank2'nin 3. level'ında çıkabilecek fonksiyonlar bu
 
 ---
 
-**epur_str :** Bu fonksiyon, dizideki fazladan boşlukları kaldırır ve kelimeler arasındaki boşlukları bir tane yapar.
+**epur_str :** Dizideki fazladan boşlukları kaldırır ve kelimeler arasındaki boşlukları bir tane yapar.
 
 - **Örnek:** 
   - **Girdi:** "  This   is   a   test  "
@@ -22,7 +22,7 @@ Bu README dosyasında ExamRank2'nin 3. level'ında çıkabilecek fonksiyonlar bu
 
 ---
 
-**expand_str :** Bu fonksiyon, verilen bir dizideki her karakterin birden fazla kopyasını oluşturur.
+**expand_str :** Verilen bir dizideki her karakterin birden fazla kopyasını oluşturur.
 
 - **Örnek:** 
   - **Girdi:** "abc"
@@ -31,7 +31,7 @@ Bu README dosyasında ExamRank2'nin 3. level'ında çıkabilecek fonksiyonlar bu
 
 ---
 
-**ft_atoi_base :** Bu fonksiyon, verilen bir karakter dizisini belirtilen tabandaki (örneğin, ikili, sekizli, onaltılı) bir tamsayıya dönüştürür.
+**ft_atoi_base :** Verilen bir karakter dizisini belirtilen tabandaki (örneğin, ikili, sekizli, onaltılı) bir tamsayıya dönüştürür.
 
 - **Örnek:** 
   - **Girdi:** "1A", 16
@@ -40,7 +40,7 @@ Bu README dosyasında ExamRank2'nin 3. level'ında çıkabilecek fonksiyonlar bu
 
 ---
 
-**ft_list_size :** Bu fonksiyon, bir bağlı liste (linked list) içindeki eleman sayısını hesaplar.
+**ft_list_size :** Bir bağlı liste (linked list) içindeki eleman sayısını hesaplar.
 
 - **Örnek:** 
   - **Girdi:** Bağlı liste (1 -> 2 -> 3)
@@ -49,7 +49,7 @@ Bu README dosyasında ExamRank2'nin 3. level'ında çıkabilecek fonksiyonlar bu
 
 ---
 
-**hidenp :** Bu fonksiyon, bir dizede diğer bir dizedeki tüm karakterlerin sırasını kontrol eder ve eğer bunlar doğru sırayla bulunuyorsa 1 döner.
+**hidenp :** Bir dizede diğer bir dizedeki tüm karakterlerin sırasını kontrol eder ve eğer bunlar doğru sırayla bulunuyorsa 1 döner.
 
 - **Örnek:** 
   - **Girdi:** "abc" ve "aabbcc"
@@ -58,7 +58,7 @@ Bu README dosyasında ExamRank2'nin 3. level'ında çıkabilecek fonksiyonlar bu
 
 ---
 
-**lcm :** Bu fonksiyon, verilen iki tamsayının en küçük ortak katını (LCM) hesaplar.
+**lcm :** Verilen iki tamsayının en küçük ortak katını (LCM) hesaplar.
 
 - **Örnek:** 
   - **Girdi:** 4 ve 5
@@ -67,7 +67,7 @@ Bu README dosyasında ExamRank2'nin 3. level'ında çıkabilecek fonksiyonlar bu
 
 ---
 
-**paramsum :** Bu fonksiyon, komut satırı parametrelerinin toplamını hesaplar.
+**paramsum :** Komut satırı parametrelerinin toplamını hesaplar.
 
 - **Örnek:** 
   - **Girdi:** "1 2 3"
@@ -76,7 +76,7 @@ Bu README dosyasında ExamRank2'nin 3. level'ında çıkabilecek fonksiyonlar bu
 
 ---
 
-**pgcd :** Bu fonksiyon, verilen iki tamsayının en büyük ortak bölenini (GCD) hesaplar.
+**pgcd :** Verilen iki tamsayının en büyük ortak bölenini (GCD) hesaplar.
 
 - **Örnek:** 
   - **Girdi:** 12 ve 15
@@ -85,7 +85,7 @@ Bu README dosyasında ExamRank2'nin 3. level'ında çıkabilecek fonksiyonlar bu
 
 ---
 
-**print_hex :** Bu fonksiyon, verilen bir tamsayının onaltılı (hexadecimal) formatındaki temsilini ekrana yazdırır.
+**print_hex :** Verilen bir tamsayının onaltılı (hexadecimal) formatındaki temsilini ekrana yazdırır.
 
 - **Örnek:** 
   - **Girdi:** 255
@@ -94,7 +94,7 @@ Bu README dosyasında ExamRank2'nin 3. level'ında çıkabilecek fonksiyonlar bu
 
 ---
 
-**rstr_capitalizer :** Bu fonksiyon, verilen bir karakter dizisindeki her kelimenin ilk harfini büyük yapar, geri kalan harfleri küçük yapar.
+**rstr_capitalizer :** Verilen bir karakter dizisindeki her kelimenin ilk harfini büyük yapar, geri kalan harfleri küçük yapar.
 
 - **Örnek:** 
   - **Girdi:** "hello world"
@@ -103,7 +103,7 @@ Bu README dosyasında ExamRank2'nin 3. level'ında çıkabilecek fonksiyonlar bu
 
 ---
 
-**str_capitalizer :** Bu fonksiyon, verilen bir karakter dizisindeki her kelimenin ilk harfini büyük yapar, geri kalan harfleri küçük yapar. Diğer özel karakterlere dikkat eder.
+**str_capitalizer :** Verilen bir karakter dizisindeki her kelimenin ilk harfini büyük yapar, geri kalan harfleri küçük yapar. Diğer özel karakterlere dikkat eder.
 
 - **Örnek:** 
   - **Girdi:** "example text here!"
@@ -112,7 +112,7 @@ Bu README dosyasında ExamRank2'nin 3. level'ında çıkabilecek fonksiyonlar bu
 
 ---
 
-**tab_mult :** Bu fonksiyon, verilen bir tamsayı için bir çarpan tablosu oluşturur.
+**tab_mult :** Verilen bir tamsayı için bir çarpan tablosu oluşturur.
 
 - **Örnek:** 
   - **Girdi:** 4
