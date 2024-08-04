@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**rotone :** Verilen bir karakter dizisindeki her harfi alfabede bir pozisyon ileri kaydırır. 
+
+- **Örnek:**
+  - **Girdi:** "abc"
+  - **Çıktı:** "bcd"
+  - **Açıklama:** Her harfi bir pozisyon ileri kaydırır.
+
+---
+
 ## Subject
 
 ```
