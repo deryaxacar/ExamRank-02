@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**tab_mult :** Verilen bir tamsayı için bir çarpan tablosu oluşturur.
+
+- **Örnek:** 
+  - **Girdi:** 4
+  - **Çıktı:** 4 x 1 = 4, 4 x 2 = 8, 4 x 3 = 12, ...
+  - **Açıklama:** Verilen sayının çarpan tablosunu oluşturur.
+
+---
+
 ## Subject
 
 ```
