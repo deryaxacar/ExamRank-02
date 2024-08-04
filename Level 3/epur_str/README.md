@@ -1,3 +1,17 @@
+## Açıklama
+
+---
+
+**epur_str :** Dizideki fazladan boşlukları kaldırır ve kelimeler arasındaki boşlukları bir tane yapar.
+
+- **Örnek:** 
+  - **Girdi:** "  This   is   a   test  "
+  - **Çıktı:** "This is a test"
+  - **Açıklama:** Fazladan boşlukları kaldırır ve kelimeler arasındaki boşlukları bir tane yapar.
+
+---
+
+
 ## Subject
 
 ```
