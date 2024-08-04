@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**ft_list_size :** Bir bağlı liste (linked list) içindeki eleman sayısını hesaplar.
+
+- **Örnek:** 
+  - **Girdi:** Bağlı liste (1 -> 2 -> 3)
+  - **Çıktı:** 3
+  - **Açıklama:** Listede 3 eleman olduğunu gösterir.
+
+---
+
 ## Subject
 
 ```
