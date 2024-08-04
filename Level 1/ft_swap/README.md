@@ -2,7 +2,7 @@
 
 ---
 
-**ft_swap :** Bu fonksiyon, iki tamsayı değişkeninin değerlerini birbirleriyle değiştirir. Yani, ilk değişkenin değeri ikinci değişkene, ikinci değişkenin değeri ise ilk değişkene atanır.
+**ft_swap :** İki tamsayı değişkeninin değerlerini birbirleriyle değiştirir. Yani, ilk değişkenin değeri ikinci değişkene, ikinci değişkenin değeri ise ilk değişkene atanır.
 
 - **Örnek:**
   - **Girdi:** a = 5, b = 10
