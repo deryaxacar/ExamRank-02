@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**rev_wstr :** Verilen bir karakter dizisindeki kelimeleri ters çevirir ancak kelimelerin sırasını korur.
+
+- **Örnek:** 
+  - **Girdi:** "hello world"
+  - **Çıktı:** "olleh dlrow"
+  - **Açıklama:** Her kelimenin karakterlerini ters çevirir.
+
+---
+
 ## Subject
 
 ```
