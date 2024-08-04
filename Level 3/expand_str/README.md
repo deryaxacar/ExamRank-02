@@ -1,3 +1,17 @@
+## Açıklama
+
+---
+
+**expand_str :** Verilen bir dizideki her karakterin birden fazla kopyasını oluşturur.
+
+- **Örnek:** 
+  - **Girdi:** "abc"
+  - **Çıktı:** "aaabbbccc"
+  - **Açıklama:** Her karakterin üç kopyasını oluşturur.
+
+---
+
+
 ## Subject
 
 ```
