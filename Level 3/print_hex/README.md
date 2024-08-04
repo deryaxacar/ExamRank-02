@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**print_hex :** Verilen bir tamsayının onaltılı (hexadecimal) formatındaki temsilini ekrana yazdırır.
+
+- **Örnek:** 
+  - **Girdi:** 255
+  - **Çıktı:** "FF"
+  - **Açıklama:** 255'in onaltılı formatını gösterir.
+
+---
+
 ## Subject
 
 ```
