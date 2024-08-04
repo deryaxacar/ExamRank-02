@@ -2,7 +2,7 @@
 
 ---
 
-**first_word :** Bu fonksiyon, verilen bir karakter dizisinde (string) ilk kelimeyi bulur ve döndürür. Kelimeler genellikle boşluk, tab veya yeni satır gibi ayırıcı karakterler kullanılarak ayrılır. Fonksiyon, bu ayırıcı karakterlerden ilkini bulur ve bu noktadan itibaren gelen karakterleri okuyarak ilk kelimeyi elde eder. 
+**first_word :** Verilen bir karakter dizisinde (string) ilk kelimeyi bulur ve döndürür. Kelimeler genellikle boşluk, tab veya yeni satır gibi ayırıcı karakterler kullanılarak ayrılır. Fonksiyon, bu ayırıcı karakterlerden ilkini bulur ve bu noktadan itibaren gelen karakterleri okuyarak ilk kelimeyi elde eder. 
 
 - **Örnek:**
   - **Girdi:** "Hello World"
