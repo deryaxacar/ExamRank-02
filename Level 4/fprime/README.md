@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**fprime :** Verilen bir tamsayının asal çarpanlarını hesaplar ve bu çarpanları içeren bir dize oluşturur. Aralarına * koyar.
+
+- **Örnek:** 
+  - **Girdi:** 30
+  - **Çıktı:** "2*'3*5" (* işaretini yazdırmak için ' işareti koydum çıktıda ' olmicaktır)
+  - **Açıklama:** 30 sayısının asal çarpanları 2, 3 ve 5'tir.
+
+---
+
 ## Subject
 
 ```
