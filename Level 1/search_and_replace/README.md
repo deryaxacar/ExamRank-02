@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**search_and_replace :** Verilen bir karakter dizisindeki belirli bir karakteri başka bir karakterle değiştirir. Dizedeki tüm belirtilen karakterler, yeni karakterle değiştirilir.
+
+- **Örnek:**
+  - **Girdi:** "hello world", 'l', 'x'
+  - **Çıktı:** "hexxo worxd"
+  - **Açıklama:** 'l' karakterleri 'x' ile değiştirilir.
+
+---
+
 ## Subject
 
 ```
