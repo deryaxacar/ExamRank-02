@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**camel_to_snake :** Bir dizedeki CamelCase formatını (örneğin, "CamelCase") snake_case formatına (örneğin, "camel_case") dönüştürür. CamelCase'deki büyük harfleri alt çizgi ve küçük harflerle değiştirir.
+
+- **Örnek:**
+  - **Girdi:** "CamelCase"
+  - **Çıktı:** "camel_case"
+  - **Açıklama:** CamelCase'den snake_case formatına dönüşüm sağlar.
+
+---
+
 ## Subject
 
 ```
