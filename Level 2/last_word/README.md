@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**last_word :** Verilen bir karakter dizisinde son kelimeyi bulur ve döndürür. Kelimeler genellikle boşluk, tab veya yeni satır gibi ayırıcı karakterler kullanılarak ayrılır.
+
+- **Örnek:**
+  - **Girdi:** "Hello World"
+  - **Çıktı:** "World"
+  - **Açıklama:** Son kelimeyi bulur.
+
+---
+
 ## Subject
 
 ```
