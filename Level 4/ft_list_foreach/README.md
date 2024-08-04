@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**ft_list_foreach :** Bağlı listede (linked list) bulunan her bir eleman üzerinde belirtilen işlevi (function) uygular.
+
+- **Örnek:** 
+  - **Girdi:** Bağlı liste (1 -> 2 -> 3), işlev: increment (her elemanı 1 artır)
+  - **Çıktı:** Bağlı liste (2 -> 3 -> 4)
+  - **Açıklama:** Her elemanı verilen işlevle işler.
+
+---
+
 ## Subject
 
 ```
