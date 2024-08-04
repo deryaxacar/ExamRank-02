@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**print_bits :** Verilen bir tamsayının bit seviyesindeki temsilini ekrana yazdırır. Bu, sayının ikili (binary) formunu göstermek için kullanılır.
+
+- **Örnek:**
+  - **Girdi:** 5
+  - **Çıktı:** 00000101
+  - **Açıklama:** Sayının bit seviyesindeki temsilini gösterir.
+
+---
+
 ## Subject
 
 ```
