@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**is_power_of_2 :** Verilen bir tamsayının 2'nin üssü olup olmadığını kontrol eder. Eğer sayı 2'nin üssü ise 1 döner, değilse 0 döner.
+
+- **Örnek:**
+  - **Girdi:** 8
+  - **Çıktı:** 1
+  - **Açıklama:** Sayının 2'nin üssü olup olmadığını kontrol eder.
+
+---
+
 ## Subject
 
 ```
