@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**repeat_alpha :** Bu fonksiyon, verilen her bir harfi alfabedeki sırasına göre tekrar eder. Harflerin alfabedeki pozisyonuna bağlı olarak tekrar sayıları belirlenir ve sonuç olarak genişletilmiş bir dize oluşturulur.
+
+- **Örnek:**
+  - **Girdi:** "abc"
+  - **Çıktı:** "abbccc"
+  - **Açıklama:** 'a' bir kez, 'b' iki kez, 'c' üç kez tekrar eder.
+
+---
+
 ## Subject
 
 ```
