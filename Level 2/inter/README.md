@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**inter :** İki dizedeki ortak karakterleri bulur ve bu karakterleri içeren yeni bir dize oluşturur. Ortak karakterlerin her biri sadece bir kez döndürülür.
+
+- **Örnek:**
+  - **Girdi:** "abc", "bcd"
+  - **Çıktı:** "bc"
+  - **Açıklama:** İki dizideki ortak karakterleri bulur.
+
+---
+
 ## Subject
 
 ```
