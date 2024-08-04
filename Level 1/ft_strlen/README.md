@@ -2,7 +2,7 @@
 
 ---
 
-**ft_strlen :** Bu fonksiyon, verilen bir karakter dizisinin uzunluğunu hesaplar ve geri döndürür. Dizinin içindeki karakterlerin sayısını (null karakter hariç) ölçer ve bu sayıyı döndürür.
+**ft_strlen :** Verilen bir karakter dizisinin uzunluğunu hesaplar ve geri döndürür. Dizinin içindeki karakterlerin sayısını (null karakter hariç) ölçer ve bu sayıyı döndürür.
 
 - **Örnek:**
   - **Girdi:** "Hello"
