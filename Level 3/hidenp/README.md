@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**hidenp :** Bir dizede diğer bir dizedeki tüm karakterlerin sırasını kontrol eder ve eğer bunlar doğru sırayla bulunuyorsa 1 döner.
+
+- **Örnek:** 
+  - **Girdi:** "abc" ve "aabbcc"
+  - **Çıktı:** 1
+  - **Açıklama:** "abc", "aabbcc" içinde sırasıyla bulunur.
+
+---
+
 ## Subject
 
 ```
