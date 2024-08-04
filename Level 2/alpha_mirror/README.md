@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**alpha_mirror :** Verilen bir karakter dizisindeki her harfi alfabedeki karşıt harfe dönüştürür. Örneğin, 'a' harfi 'z' olur, 'b' harfi 'y' olur, vb. Bu işlem, her harfi alfabedeki zıt pozisyona dönüştürerek bir tür ayna yansıması oluşturur.
+
+- **Örnek:**
+  - **Girdi:** "abc"
+  - **Çıktı:** "zyx"
+  - **Açıklama:** Her harfin alfabedeki karşıt harfi ile değiştirilmesi.
+
+---
+
 ## Subject
 
 ```
