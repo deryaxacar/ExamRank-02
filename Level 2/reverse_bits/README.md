@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**reverse_bits :** Verilen bir tamsayının bitlerini ters çevirir. Yani, sayının ikili temsilindeki bitlerin sırasını tersine çevirir.
+
+- **Örnek:**
+  - **Girdi:** 5 (00000101)
+  - **Çıktı:** 160 (10100000)
+  - **Açıklama:** Bitlerin sırasını tersine çevirir.
+
+---
+
 ## Subject
 
 ```
