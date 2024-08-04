@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**swap_bits :** Verilen bir tamsayının belirli bitlerini takas eder. Bu işlem, belirli bit pozisyonlarının değerlerini değiştirir.
+
+- **Örnek:**
+  - **Girdi:** 5 (00000101), takas edilen bitler: 2 ve 5
+  - **Çıktı:** 160 (10100000)
+  - **Açıklama:** Belirli bitlerin yerlerini değiştirir.
+
+---
+
 ## Subject
 
 ```
