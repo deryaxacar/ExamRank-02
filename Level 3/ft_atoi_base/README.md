@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**ft_atoi_base :** Verilen bir karakter dizisini belirtilen tabandaki (örneğin, ikili, sekizli, onaltılı) bir tamsayıya dönüştürür.
+
+- **Örnek:** 
+  - **Girdi:** "1A", 16
+  - **Çıktı:** 26
+  - **Açıklama:** "1A" onaltılı (hexadecimal) formatında 26'ya dönüşür.
+
+---
+
 ## Subject
 
 ```
