@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**ft_strrev :** Verilen bir karakter dizisini ters çevirir ve döndürür. Dizinin sonundaki karakterden başlayarak ilk karaktere kadar olan sırayı takip eder.
+
+- **Örnek:**
+  - **Girdi:** "Hello"
+  - **Çıktı:** "olleH"
+  - **Açıklama:** Karakter dizisini ters çevirir.
+
+---
+
 ## Subject
 
 ```
