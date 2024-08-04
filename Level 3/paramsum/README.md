@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**paramsum :** Komut satırı parametrelerinin toplamını hesaplar.
+
+- **Örnek:** 
+  - **Girdi:** "1 2 3"
+  - **Çıktı:** 6
+  - **Açıklama:** Parametrelerin toplamını hesaplar.
+
+---
+
 ## Subject
 
 ```
