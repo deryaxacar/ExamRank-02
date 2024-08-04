@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**ft_atoi :** Verilen bir karakter dizisini tamsayıya dönüştürür. Dizideki rakamları alır ve bir tam sayıya çevirir. Bu işlem sırasında, dizideki başındaki boşluklar ve işaretler (pozitif/negatif) dikkate alınır.
+
+- **Örnek:**
+  - **Girdi:** "42"
+  - **Çıktı:** 42
+  - **Açıklama:** Karakter dizisini tamsayıya dönüştürür.
+
+---
+
 ## Subject
 
 ```
