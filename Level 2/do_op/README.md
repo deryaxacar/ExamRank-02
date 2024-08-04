@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**do_op :** İki tamsayı arasında belirtilen matematiksel işlemi gerçekleştirir. İşlem türü genellikle bir karakter ile belirtilir (örneğin, '+' için toplama, '-' için çıkarma, '*' için çarpma, '/' için bölme).
+
+- **Örnek:**
+  - **Girdi:** "5 + 3"
+  - **Çıktı:** 8
+  - **Açıklama:** Belirtilen matematiksel işlemi gerçekleştirir.
+
+---
+
 ## Subject
 
 ```
