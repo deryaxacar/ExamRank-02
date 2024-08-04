@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**lcm :** Verilen iki tamsayının en küçük ortak katını (LCM) hesaplar.
+
+- **Örnek:** 
+  - **Girdi:** 4 ve 5
+  - **Çıktı:** 20
+  - **Açıklama:** 4 ve 5'in en küçük ortak katıdır.
+
+---
+
 ## Subject
 
 ```
