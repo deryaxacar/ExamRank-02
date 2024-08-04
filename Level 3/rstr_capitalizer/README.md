@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**rstr_capitalizer :** Verilen bir karakter dizisindeki her kelimenin ilk harfini büyük yapar, geri kalan harfleri küçük yapar.
+
+- **Örnek:** 
+  - **Girdi:** "hello world"
+  - **Çıktı:** "Hello World"
+  - **Açıklama:** Her kelimenin ilk harfini büyük yapar.
+
+---
+
 ## Subject
 
 ```
