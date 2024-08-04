@@ -2,7 +2,7 @@
 
 ---
 
-**repeat_alpha :** Bu fonksiyon, verilen her bir harfi alfabedeki sırasına göre tekrar eder. Harflerin alfabedeki pozisyonuna bağlı olarak tekrar sayıları belirlenir ve sonuç olarak genişletilmiş bir dize oluşturulur.
+**repeat_alpha :** Verilen her bir harfi alfabedeki sırasına göre tekrar eder. Harflerin alfabedeki pozisyonuna bağlı olarak tekrar sayıları belirlenir ve sonuç olarak genişletilmiş bir dize oluşturulur.
 
 - **Örnek:**
   - **Girdi:** "abc"
