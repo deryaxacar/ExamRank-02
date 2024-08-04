@@ -1,3 +1,14 @@
+## Açıklama
+
+---
+
+**fizzbuzz :** Bu fonksiyon, klasik FizzBuzz problemine çözüm sağlar. 1'den n'e kadar olan sayıları sırayla kontrol eder ve:
+  - Eğer sayı 3'e tam bölünebiliyorsa "Fizz" yazdırır.
+  - Eğer sayı 5'e tam bölünebiliyorsa "Buzz" yazdırır.
+  - Eğer sayı hem 3'e hem de 5'e tam bölünebiliyorsa "FizzBuzz" yazdırır.
+
+---
+
 ## Subject
 
 ```
