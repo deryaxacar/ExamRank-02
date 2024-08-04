@@ -1,3 +1,17 @@
+## Açıklama
+
+---
+
+**snake_to_camel :** Bir dizedeki snake_case formatını (örneğin, "snake_case") CamelCase formatına (örneğin, "SnakeCase") dönüştürür. Snake_case'deki alt çizgileri kaldırır ve her kelimenin ilk harfini büyük yapar.
+
+- **Örnek:**
+  - **Girdi:** "snake_case"
+  - **Çıktı:** "SnakeCase"
+  - **Açıklama:** Snake_case'den CamelCase formatına dönüşüm sağlar.
+
+---
+
+
 ## Subject
 
 ```
