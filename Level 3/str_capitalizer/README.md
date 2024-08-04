@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**str_capitalizer :** Verilen bir karakter dizisindeki her kelimenin ilk harfini büyük yapar, geri kalan harfleri küçük yapar. Diğer özel karakterlere dikkat eder.
+
+- **Örnek:** 
+  - **Girdi:** "example text here!"
+  - **Çıktı:** "Example Text Here!"
+  - **Açıklama:** Her kelimenin ilk harfini büyük yapar ve diğer harfleri küçük yapar.
+
+---
+
 ## Subject
 
 ```
