@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**ft_strdup :** Verilen bir karakter dizisinin bir kopyasını oluşturur ve geri döndürür. Bu işlem, dizinin her karakterini kopyalayarak yeni bir dize oluşturur.
+
+- **Örnek:**
+  - **Girdi:** "Hello"
+  - **Çıktı:** "Hello"
+  - **Açıklama:** Karakter dizisinin bir kopyasını oluşturur.
+
+---
+
 ## Subject
 
 ```
