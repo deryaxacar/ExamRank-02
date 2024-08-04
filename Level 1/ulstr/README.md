@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**ulstr :** Verilen bir karakter dizisindeki tüm küçük harfleri büyük harfe dönüştürür. Dizideki küçük harfler büyük harflere çevrilir ve dizinin geri kalan kısmı aynı kalır.
+
+- **Örnek:**
+  - **Girdi:** "Hello World"
+  - **Çıktı:** "HELLO WORLD"
+  - **Açıklama:** Küçük harfler büyük harflere dönüştürülür.
+
+---
+
 ## Subject
 
 ```
