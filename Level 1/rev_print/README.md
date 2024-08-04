@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**rev_print :** Verilen bir karakter dizisini ters çevirir ve ekrana yazdırır. Dizinin sonundaki karakterden başlayarak ilk karaktere kadar olan sırayı takip eder.
+
+- **Örnek:**
+  - **Girdi:** "Hello"
+  - **Çıktı:** "olleH"
+  - **Açıklama:** "Hello" dizisi ters çevrilir ve ekrana yazdırılır.
+
+---
+
 ## Subject
 
 ```
