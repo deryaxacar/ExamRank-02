@@ -1,3 +1,16 @@
+## Açıklama
+
+---
+
+**rostring :** Verilen bir dizedeki her kelimenin karakterlerini ROT13 algoritması ile şifreler.
+
+- **Örnek:** 
+  - **Girdi:** "hello"
+  - **Çıktı:** "uryyb"
+  - **Açıklama:** Her karakteri ROT13 ile dönüştürür.
+
+---
+
 ## Subject
 
 ```
