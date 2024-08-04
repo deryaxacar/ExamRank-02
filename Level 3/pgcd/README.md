@@ -1,3 +1,17 @@
+## Açıklama
+
+---
+
+**pgcd :** Verilen iki tamsayının en büyük ortak bölenini (GCD) hesaplar.
+
+- **Örnek:** 
+  - **Girdi:** 12 ve 15
+  - **Çıktı:** 3
+  - **Açıklama:** 12 ve 15'in en büyük ortak bölenidir.
+
+---
+
+
 ## Subject
 
 ```
