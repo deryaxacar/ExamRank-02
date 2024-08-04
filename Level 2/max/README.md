@@ -1,3 +1,17 @@
+## Açıklama
+
+---
+
+**max :** Verilen iki tamsayıdan hangisinin daha büyük olduğunu belirler ve döndürür.
+
+- **Örnek:**
+  - **Girdi:** 5, 10
+  - **Çıktı:** 10
+  - **Açıklama:** İki tamsayıdan büyük olanı döndürür.
+
+---
+
+
 ## Subject
 
 ```
