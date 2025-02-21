@@ -77,3 +77,8 @@ kendi yazdığım kodlar ve içerikler bulunmaktadır. Bu repoda bulunan fonksiy
 </details>
 
 Fonksiyonların detaylı açıklamaları için level dosyalarına göz atabilirsiniz. Her level dosyasında kendine ait fonksiyonların açıklamaları bulunmaktadır.
+
+---
+
+<p align="center">© 2025 This project was created by Derya ACAR.</p>
+
