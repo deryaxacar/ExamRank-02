@@ -80,5 +80,5 @@ Fonksiyonların detaylı açıklamaları için level dosyalarına göz atabilirs
 
 ---
 
-<p align="center">© 2025 This project was created by Derya ACAR.</p>
+<p align="center">2025 This project was created by Derya ACAR.</p>
 
